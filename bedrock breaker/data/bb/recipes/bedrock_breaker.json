@@ -1,0 +1,1 @@
+{"type":"crafting_shaped","pattern":[" # ","XOX","@@@"],"key":{"#":{"item":"minecraft:book"},"X":{"item":"minecraft:tnt"},"O":{"item":"minecraft:dragon_egg"},"@":{"item":"minecraft:redstone_block"}},"result":{"item":"minecraft:knowledge_book"}}
