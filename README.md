@@ -18,3 +18,5 @@ And you will get this( and you dragon egg back)
 Throw the bedrock breaker onto the bedrock( default by Q ),and wait for 5 seconds( remember to stay away ). Bang! The bedrocks are gone.
 
 ![2020-07-06_23 55 43](https://user-images.githubusercontent.com/63455223/86614639-e6463c00-bfe5-11ea-9a7a-e49102cfafa4.png)
+![2020-07-06_23 57 09](https://user-images.githubusercontent.com/63455223/86615997-c9126d00-bfe7-11ea-88b7-1ca4380308de.png)
+![2020-07-06_23 57 26](https://user-images.githubusercontent.com/63455223/86616027-d596c580-bfe7-11ea-891f-b510b563aa73.png)
